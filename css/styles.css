@@ -9,7 +9,8 @@ p {
 }
 
 p.important {
-  font-size: 1.5em
+  font-size: 1.5em;
+  font-weight: 900;
 }
 
 h3.bigger {
@@ -18,4 +19,8 @@ h3.bigger {
 
 .typewriter {
   font-family: "Courier New", Courier, monospace;
+}
+
+.ital {
+  font-style: italic;
 }
